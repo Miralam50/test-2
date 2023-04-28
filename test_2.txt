@@ -2,3 +2,4 @@
 2) 2-ci setir
 3) 3-cu setir
 4) 4-cu setir
+5) 5-ci setir
